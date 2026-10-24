@@ -1,0 +1,5 @@
+Copy her photos into this folder, for example:
+  m1.jpg, m2.jpg, m3.jpg, m4.jpg   (for "Our little moments")
+  b1.jpg ... b6.jpg                (for the balloons)
+Then list them at the top of index.html in EMBED_M and EMBED_B.
+Tip: resize photos to about 800 pixels wide so the page loads fast.
